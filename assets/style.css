@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+.clearfix::after{
+    clear: both;
+  content:"";
+  }
+
+.nbx{
+    position: relative;
+    margin-left:1100px;
+   margin-bottom:1px black;
+}
+
+.aboutMe{
+    float:left;
+}
+
+.footer1{
+float:center;
+
+}
+#pic {
+    float:left;
+        height: 220px;
+  }
+
+.portfolio-pic{
+    height:150px;
+    width:150px;
+}
