@@ -31,3 +31,7 @@ float:center;
     height:150px;
     width:150px;
 }
+
+#name {
+  position: static;
+}
